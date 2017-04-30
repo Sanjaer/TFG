@@ -1,9 +1,0 @@
-Temporary list of files linked and their other locations:
-
-~/Dropbox/UVa/TFG/Blender/ROS/14sensores/glove_sj/calibration.cpp ./calibration.cpp
-
-~/Dropbox/UVa/TFG/Blender/Proyecto/Edge/subscriptores/mano_sj.cpp
-
-~/Dropbox/UVa/TFG/Blender/Proyecto/Edge/subscriptores/main_sub.py
-
-~/Dropbox/UVa/TFG/Blender/Proyecto/Edge/subscriptores/udp_blenthread.py
