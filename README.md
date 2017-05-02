@@ -1,4 +1,4 @@
-# "Desarrollo de un entorno gráfico de usuario para guante de datos 5DT"
+# "Desarrollo de un entorno gráfico de usuario para guante de datos 5DT" (Development of a GUI for 5DT data glove)
 
 ## Synopsis
 
