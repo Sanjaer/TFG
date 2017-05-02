@@ -40,7 +40,7 @@ Compile -> Launch ROSCore -> Launch Glove -> Launch Publishers -> Launch Blender
 
 ## API Reference
 
-The full project is in the docs folder. Annex I contains a user guide.
+The full project is in the TFG-P-513.pdf file (temporary). Annex I contains a user guide.
 
 ## License
 
